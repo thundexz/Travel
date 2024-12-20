@@ -49,7 +49,7 @@ function Form(){
 
       </select>
 
-      <input type="text" placeholder="itemm..." /> 
+      <input type="text" placeholder="item..." /> 
       <button>Add</button>
     </div>
   );
